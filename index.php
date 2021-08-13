@@ -18,7 +18,7 @@
     <br>
     <div class = "div">
         <h1 class="text-light bg-dark">
-            ALOJAMIENTOS RURALES
+            ALOJAMIENTOS RURALES NUEVA VERSIÓN 
         </h1> 
     </div>
     
